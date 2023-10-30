@@ -1,6 +1,6 @@
 import random
 
-
+# Enter the start and ending words
 syllables = ["ra", "mi", "do", "so", "la", "ti", "di", "ze", "fi", "po", "ni", "ko"]
 endings = ["an", "el", "or", "ius", "ious", "ara", "ella", "inda", "oria", "ette"]
 
