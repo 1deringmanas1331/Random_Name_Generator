@@ -15,6 +15,7 @@ def generate_random_name():
     return name.capitalize()
 
 if __name__ == "__main__":
+    # Ask the user how many random names are required
     num_names = int(input("Enter the number of random names to generate: "))
     
     random_names = [generate_random_name() for _ in range(num_names)]
