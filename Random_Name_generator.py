@@ -1,3 +1,4 @@
+# import the Random
 import random
 # We enter the names in a list 
 # Enter the start and ending words
