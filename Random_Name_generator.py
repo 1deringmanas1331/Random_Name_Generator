@@ -5,7 +5,7 @@ import random
 syllables = ["ra", "mi", "do", "so", "la", "ti", "di", "ze", "fi", "po", "ni", "ko"]
 endings = ["an", "el", "or", "ius", "ious", "ara", "ella", "inda", "oria", "ette"]
 
-# Generate the Random Name in this function
+# We Generate the Random name in this function
 def generate_random_name():
     name_length = random.randint(2, 3)  
 
