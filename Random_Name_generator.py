@@ -1,7 +1,7 @@
 # import the Random library
 import random
 # We enter the names in a list 
-# Enter the start and ending words
+# Enter the starting and ending words
 syllables = ["ra", "mi", "do", "so", "la", "ti", "di", "ze", "fi", "po", "ni", "ko"]
 endings = ["an", "el", "or", "ius", "ious", "ara", "ella", "inda", "oria", "ette"]
 
